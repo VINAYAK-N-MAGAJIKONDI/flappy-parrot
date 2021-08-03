@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www..w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.parrot.game"
+    versionCode = "10"
+    version     = "1.0..0" >
+
+  <name>flappy parrot</name> 
+
+  <description>  
+        flapp app  
+  </description>  
+
+  <author email ="vinayakmagajikondi61@gmail.com" href = "https://build.phonegap.com">  
+        Vinayak Magajikondi
+  </author> 
+  
+  <icon src="i.jpg" />
+  
+</widget>
